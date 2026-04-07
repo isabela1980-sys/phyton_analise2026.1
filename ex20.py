@@ -9,3 +9,4 @@ elif s>8000:
     print(f"O salário é {s}, o valor do imposto pago é {i}, totalizando o salário líquido em {sd}")
 else:
     print("Não paga imposto")
+print("teste gitcs")
